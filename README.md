@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anup Karki</h1>
-<h3 align="center">A Aspiring Software Engineer from Nepal</h3>
+<h3 align="center">A Aspiring Software Engineer From Nepal</h3>
 <p align="left">
 </p>
 
