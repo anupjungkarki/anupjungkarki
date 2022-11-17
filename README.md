@@ -3,4 +3,4 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anupjungkarki&label=Profile%20views&color=0e75b6&style=flat" alt="anupjungkarki" /> </p>
 
-![anupjungkarki's Stats](https://github-readme-stats.vercel.app/api?username=anupjungkarki&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![anupjungkarki's Streak](https://github-readme-streak-stats.herokuapp.com/?user=anupjungkarki&theme=vue-dark&hide_border=true)   ![anupjungkarki's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anupjungkarki&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
